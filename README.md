@@ -1,4 +1,4 @@
-# biblioteca_pandas
+# Analisando e montando um dataset de Varejo com bibliotecas pandas
 
 
 O dataset de varejo aqui apresentado é composto por informações de vendas de uma loja virtual que atua em todo o território nacional, vendendo produtos de diferentes departamentos. Além disso, a loja atua em diferentes canais de venda, como marketplace, loja própria, entre outros.
